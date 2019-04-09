@@ -13,7 +13,7 @@ Ferramenta que retorna todos os servidores zabbix acessiveis pela internet no [S
 ### Executando
 Baixando dependências
 ```
-pip3 install -r requirements.txt
+pip3 install -r requeriments.txt
 ```
 
 
